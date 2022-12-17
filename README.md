@@ -90,4 +90,4 @@ $ ./monty errorfile.m
 1
 L3: unknown instruction pcx
 Return value
-When there is no errors, monty returns 0. Otherwise, returns 1
+When there are no errors, monty returns 0. Otherwise, returns 1
